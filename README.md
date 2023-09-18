@@ -39,7 +39,10 @@ yarn start
 ```
 
 ## Technologies
-
+- Front-end - HTML, CSS , Bootstrap
+- Fullstack - React, Redux
+- Routing - React Router
+  
 ## Authors
 * [Tristanon](https://github.com/Tristanon)
 
