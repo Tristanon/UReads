@@ -22,8 +22,8 @@
 ## Installation
 1. Clone this repository on your local machin.
 ```shell
-$  git clone https://github.com/Tristanon/U-Employee-Poll.git
-$  cd U-Employee-Poll
+$  git clone https://github.com/Tristanon/UReads.git
+$  cd UReads
 ```
 
 2. Install npm and run locally.
