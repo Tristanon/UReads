@@ -11,7 +11,13 @@
 - User-Friendly: Allows users to easily select, categorize, and organize their reading list, enhancing their book management experience.
 
 ## Available Features
+- Organized Book Display: Users can conveniently view books categorized as "Currently Reading," "Want to Read," and "Read."
 
+- Extensive Book Search: Users have the option to search for additional book data through the API.
+
+- Effortless Shelf Management: Users can seamlessly add books from the library to their preferred shelves: "Currently Reading," "Want to Read," or "Read."
+
+- Flexible Shelf Customization: Users can easily switch books between different shelves or remove them from a shelf altogether.
 
 ## Installation
 1. Clone this repository on your local machin.
