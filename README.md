@@ -13,21 +13,24 @@
 ## Available Features
 
 
-# Installation
-Install dependencies and run with:
- 
-npm
+## Installation
+1. Clone this repository on your local machin.
+```shell
+$  git clone https://github.com/Tristanon/U-Employee-Poll.git
+$  cd U-Employee-Poll
 ```
-npm install
-npm start
-```
-or
 
+2. Install npm and run locally.
+npm
+```shell
+npm install && npm start
+```
 yarn
 ```
 yarn install
 yarn start
 ```
+
 ## Technologies
 
 ## Authors
